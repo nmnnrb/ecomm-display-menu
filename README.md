@@ -1,4 +1,4 @@
-<h1>Ecomm-Shop-Meno</h1>
+<h1>Ecomm-Shop-Memo</h1>
 <hr>
 <a href="https://youtu.be/MOz1FZvUdq0">Click here to watch the video demonstration.</a>
 <hr>
